@@ -1,0 +1,28 @@
+:Product: 0125SGAS.txt
+:Issued: 2024 Jan 25 0245 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar and Geophysical Activity Summary
+SGAS Number 025 Issued at 0245Z on 25 Jan 2024
+This report is compiled from data received at SWO on 24 Jan
+A.  Energetic Events
+Begin  Max  End  Rgn   Loc   Xray  Op 245MHz 10cm   Sweep
+ 0021 0038 0043  3561        M1.0                                   
+ 0131 0140 0153  3561 S20W48 M2.6  Sf        100                    
+ 0518 0543 0600  3561        M1.4                                   
+ 2044 2058 2111  3561        M1.3                                   
+B.  Proton Events:  None
+C.  Geomagnetic Activity Summary:  Levels were quiet to unsettled.
+D.  Stratwarm:  Not Available
+E.  Daily Indices: (real-time preliminary/estimated values)
+10 cm 172  SSN 108  Afr/Ap 007/007   X-ray Background C1.5
+Daily Proton Fluence (flux accumulation over 24 hrs)
+GT 1 MeV 1.4e+07   GT 10 MeV 2.0e+04 p/(cm2-ster-day)
+(GOES-18 satellite synchronous orbit W137 degrees)
+Daily Electron Fluence
+GT 2 MeV 1.20e+06 e/(cm2-ster-day)
+(GOES-16 satellite synchronous orbit W75 degrees)
+3 Hour K-indices:
+Boulder 3 2 4 2 2 2 2 1 Planetary 3 2 3 1 2 0 1 1 
+F.  Comments:  None

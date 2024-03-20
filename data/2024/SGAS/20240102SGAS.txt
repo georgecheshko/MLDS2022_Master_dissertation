@@ -1,0 +1,29 @@
+:Product: 0102SGAS.txt
+:Issued: 2024 Jan 02 0245 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar and Geophysical Activity Summary
+SGAS Number 002 Issued at 0245Z on 02 Jan 2024
+This report is compiled from data received at SWO on 01 Jan
+A.  Energetic Events
+Begin  Max  End  Rgn   Loc   Xray  Op 245MHz 10cm   Sweep
+ 0833 0854 0904  3536 N04E70 M2.3  1n                               
+ 1154 1225 1235              M4.7                                   
+B.  Proton Events:  The greater than 10 MeV proton flux at
+geosynchronous orbit was slightly elevated, but below the 10pfu
+threshold.
+C.  Geomagnetic Activity Summary:  The geomagnetic rfield ranged from
+quiet to active levels.
+D.  Stratwarm:  Not Available
+E.  Daily Indices: (real-time preliminary/estimated values)
+10 cm 136  SSN 044  Afr/Ap 006/007   X-ray Background B9.6
+Daily Proton Fluence (flux accumulation over 24 hrs)
+GT 1 MeV 2.8e+07   GT 10 MeV 8.1e+04 p/(cm2-ster-day)
+(GOES-16 satellite synchronous orbit W75 degrees)
+Daily Electron Fluence
+GT 2 MeV 2.70e+06 e/(cm2-ster-day)
+(GOES-16 satellite synchronous orbit W75 degrees)
+3 Hour K-indices:
+Boulder 0 0 1 2 2 3 2 3 Planetary 0 0 1 1 2 3 3 3 
+F.  Comments:  None
